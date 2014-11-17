@@ -299,7 +299,7 @@ div.box a {
 
 #work img {
                         height: 102vh;
-                        width: 100vw;
+                        width: 100%;
                         position: absolute;
                         left: 0;
                         -webkit-transition: opacity 1s ease-in-out;
