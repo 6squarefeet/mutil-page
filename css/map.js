@@ -19,14 +19,19 @@ window.onload = function () {
                     ];
 
         var options = {
-             mapTypeControlOptions: {
-                        mapTypeIds: ['Styled']
+                          mapTypeControlOptions: {
+                          mapTypeIds: ['Styled']
                       },
-                        center: new google.maps.LatLng(41.8786805, -87.6364067),
-                        zoom: 12,
-                        disableDefaultUI: true,
-                        mapTypeId: 'Styled'
-          };
+                          center: new google.maps.LatLng(41.8786805, -87.6364067),
+                          zoom: 12,
+                          disableDefaultUI: true,
+                          scrollwheel: false,
+                          navigationControl: false,
+                          mapTypeControl: false,
+                          scaleControl: false,
+                          draggable: false,
+                          mapTypeId: 'Styled'
+                      };
 
         var div = document.getElementById('where');
         var map = new google.maps.Map(div, options);
