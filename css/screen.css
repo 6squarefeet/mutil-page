@@ -116,7 +116,7 @@ nav ul {
 
 nav ul li {
                         display: inline-block;
-                        margin: 0 10px;
+                        margin: 0 1rem;
 }
 
 nav ul li a {
@@ -181,11 +181,11 @@ nav ul li a:hover {
                         transition: stroke-width 2s, stroke-dashoffset 1s, stroke-dasharray 1s;
 }
 .svg-wrapper .text {
-                        font-size: 22px;
-                        line-height: 32px;
-                        letter-spacing: 8px;
+                        font-size: 1.2em;
+                        line-height: 1.2em;
+                        letter-spacing: .4em;
                         color: #fff;
-                        top: -48px;
+                        top: -2.2em;
                         position: relative;
                         text-align: center;
 }
@@ -361,7 +361,7 @@ div.box a {
 #links {
                         position: absolute;
                         float: right;
-                        word-spacing: 30px;
+                        word-spacing: 1.3em;
                         right: 5vw;
 }
 
