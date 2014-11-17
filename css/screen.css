@@ -294,7 +294,7 @@ div.box a {
                         background: rgba(247,245,245,.95);
                         position: relative;
                         height: 102vh;
-                        margin-top: -2vh;
+                        margin-top: -5vh;
 }
 
 #work img {
@@ -336,7 +336,6 @@ div.box a {
                         margin-left: auto;
                         margin-right: auto;
                         height: 94vh;
-                        width: 100vw;
                         background-color: #CCC;
 
 }
