@@ -336,7 +336,6 @@ div.box a {
                         margin-right: auto;
                         height: 94vh;
                         background-color: #CCC;
-
 }
 
 /* footer */
@@ -370,3 +369,5 @@ div.box a {
 #links a:hover {
                         color: #000;
 }
+
+/* media query */
