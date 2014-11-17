@@ -4,6 +4,7 @@ html {
                         -ms-text-size-adjust: 100%;
                         font-family: 'Montserrat', 'Arial Black', sans-serif;
                         font-size: 18px;
+                        color: #FFF;
 }
 
 html, body {
@@ -92,7 +93,7 @@ nav {
 }
 
 nav:hover {
-                        background: rgba(0,0,0,.1);
+                        background: rgba(0,0,0,.05);
 }
 
 nav ul {
@@ -246,7 +247,7 @@ img.background {
 }
 
 #abilities h2 {
-                        margin-top: 20vh;
+                        margin-top: 17.5vh;
                         margin-bottom: 7.5vh;
 }
 
@@ -306,7 +307,7 @@ div.box a {
                         opacity: 0;
 }
 
-#work h2 {
+#work a {
                         z-index: 2;
                         position: absolute;
                         color: white;
@@ -317,6 +318,11 @@ div.box a {
                         font-size: 5em;
                         font-weight: bold;
                         top: 45vh;
+                        transition: all 0.25s ease;
+}
+
+#work a:hover {
+                        color: #000;
 }
 
 #where {
@@ -331,8 +337,8 @@ div.box a {
 #footer {
                         position: relative;
                         bottom: 0;
-                        padding-top: 5vh;
-                        padding-bottom: 7.5vh;
+                        padding-top: 2vh;
+                        padding-bottom: 6.5vh;
                         background: #DEDEDE;
                         z-index: 3;
 }
@@ -349,6 +355,10 @@ div.box a {
                         float: right;
                         word-spacing: 30px;
                         right: 5vw;
+}
+
+#links a {
+                        transition: all 0.25s ease;
 }
 
 #links a:hover {
