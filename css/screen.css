@@ -354,8 +354,8 @@ div.box a {
 #footer {
                         position: relative;
                         bottom: 0;
-                        padding-top: 2vh;
-                        padding-bottom: 6.5vh;
+                        padding-top: 1.5vh;
+                        padding-bottom: 4.5vh;
                         background: #DEDEDE;
                         z-index: 3;
 }
