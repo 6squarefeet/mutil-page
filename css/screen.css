@@ -14,8 +14,8 @@ html, body {
 }
 
 h1 {
-                        font-size: 6.5vw;
-                        font-weight: normal;
+                        font-size: 5.5vw;
+                        font-weight: bold;
                         color: #F0F0F0;
                         text-transform: uppercase;
                         text-align: center;
@@ -114,17 +114,16 @@ a.active {
 }
 
 #main {
-
                         height: 100vh;
 }
 
 #title {
                         position: absolute;
-                        height: 60vh;
-                        width: 35vw;
+                        height: 50vh;
+                        width: 30vw;
 
-                        margin-left: 32.5vw;
-                        margin-top: 20vh;
+                        margin-left: 35vw;
+                        margin-top: 25vh;
 
                         text-align: center;
                         z-index: 3;
