@@ -144,7 +144,6 @@ img.background {
                         position: relative;
 
                         height: 100vh;
-                        width: 99vw;
 
                         margin-left: auto;
                         margin-right: auto;
@@ -167,12 +166,11 @@ img.background {
 
 #abilities {
                         height: 100vh;
-                        width: 99vw;
 
                         margin-left: auto;
                         margin-right: auto;
-                        padding-left: 24.5vw;
-                        padding-right: 24.5vw;
+                        padding-left: 25vw;
+                        padding-right: 25vw;
                         z-index: 1;
 
                         width: 50vw;
