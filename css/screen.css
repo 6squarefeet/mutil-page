@@ -186,7 +186,7 @@ img.background {
 }
 
 #abilities h2 {
-                        margin-top: 17.5vh;
+                        margin-top: 20vh;
                         margin-bottom: 7.5vh;
 }
 
@@ -231,7 +231,7 @@ div.box a {
 
 img.insert1 {
                         height: 100vh;
-                        width: auto;
+                        width: 100vw;
                         z-index: 1;
 }
 
