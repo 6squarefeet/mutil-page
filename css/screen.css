@@ -403,8 +403,17 @@ div.box a {
 }
 
   #abilities h2 {
-                        margin-top: 10vh;
-                        margin-bottom: 2.5vh;
+                        margin-top: 12.5vh;
+                        margin-bottom: 3vh;
+                        font-size: .8em;
+}
+
+  div.box {
+                        height: 14em;
+}
+
+  div.box ul {
+                        font-size: .75em;
 }
 
 }
