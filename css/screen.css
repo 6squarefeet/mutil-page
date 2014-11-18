@@ -264,7 +264,7 @@ div.box {
                         float: left;
                         clear: none;
                         width: 50%;
-                        height: 300px;
+                        height: 40vh;
                         border: 1px;
                         text-align: center;
                         color: #F0F0F0;
@@ -406,10 +406,6 @@ div.box a {
                         margin-top: 12.5vh;
                         margin-bottom: 3vh;
                         font-size: .8em;
-}
-
-  div.box {
-                        height: 14em;
 }
 
   div.box ul {
