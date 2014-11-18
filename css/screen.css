@@ -416,4 +416,13 @@ div.box a {
                         font-size: .75em;
 }
 
+  #work img {
+                        height: 102vh;
+                        width: auto;
+}
+
+  #work a {
+                        font-size: 3em;
+}
+
 }
