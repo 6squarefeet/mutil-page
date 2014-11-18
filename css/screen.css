@@ -394,4 +394,17 @@ div.box a {
                         margin-right: auto;
 }
 
+  #abilities {
+                        margin-left: auto;
+                        margin-right: auto;
+                        padding-left: 5%;
+                        padding-right: 5%;
+                        width: 90%;
+}
+
+  #abilities h2 {
+                        margin-top: 10vh;
+                        margin-bottom: 2.5vh;
+}
+
 }
