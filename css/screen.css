@@ -375,11 +375,11 @@ div.box a {
 
   nav ul li {
                           display: inline-block;
-                          margin: 0 1rem;
+                          margin: 0 .2rem;
   }
 
   nav ul li a {
-                          font-size: .5rem;
+                          font-size: .8rem;
   }
 
 }
