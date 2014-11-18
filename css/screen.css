@@ -371,3 +371,10 @@ div.box a {
 }
 
 /* media query */
+@media (-webkit-min-device-pixel-ratio: 2) {
+
+nav ul li a {
+                        font-size: .5rem;
+}
+
+}
