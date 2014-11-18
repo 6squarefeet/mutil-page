@@ -408,12 +408,15 @@ div.box a {
                         font-size: .8em;
 }
 
+  div.box {
+                        height: 14em;
+}
+
   div.box ul {
                         font-size: .75em;
 }
 
   #work img {
-                        height: 102vh;
                         width: auto;
 }
 
