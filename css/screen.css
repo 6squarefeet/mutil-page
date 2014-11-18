@@ -292,12 +292,13 @@ div.box a {
                         z-index: 1;
                         background: rgba(247,245,245,.95);
                         position: relative;
-                        height: 102vh;
-                        margin-top: -5vh;
+                        height: 100vh;
+                        overflow: hidden;
+
 }
 
 #work img {
-                        height: 102vh;
+                        height: 100vh;
                         width: 100%;
                         position: absolute;
                         left: 0;
@@ -416,8 +417,13 @@ div.box a {
                         font-size: .75em;
 }
 
+  #work {
+                        width: 100vw;
+}
+
   #work img {
                         width: auto;
+                        overflow: hidden;
 }
 
   #work a {
