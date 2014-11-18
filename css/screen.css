@@ -382,4 +382,16 @@ div.box a {
                           font-size: .8rem;
   }
 
+  #profilepic {
+                        padding-top: 15vh;
+}
+
+  #introtxt {
+                        padding-top: 30vh;
+                        position: relative;
+                        width: 85vw;
+                        margin-left: auto;
+                        margin-right: auto;
+}
+
 }
