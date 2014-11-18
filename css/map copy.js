@@ -1,4 +1,4 @@
-function initialize() {
+window.onload = function () {
 
         var styles = [
                       {
@@ -38,13 +38,3 @@ function initialize() {
         var styledMapType = new google.maps.StyledMapType(styles, { name: 'Styled' });
         map.mapTypes.set('Styled', styledMapType);
       };
-
-function loadScript() {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&' +
-      'callback=initialize';
-  document.body.appendChild(script);
-};
-
-window.onload = loadScript;
